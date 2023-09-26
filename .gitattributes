@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+nome=(input("qual o seu nome?"))
+idade=(input("qual sua idade?"))
+peso=(input("qual seu peso?"))
+altura=(input("qual sua altura?"))
